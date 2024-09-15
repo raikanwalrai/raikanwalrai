@@ -2,6 +2,8 @@
 
 I’m currently working on Python!
 
+![letters-483010_640](https://github.com/user-attachments/assets/1fd0357c-af9d-458b-8308-44741b53c74c)
+
 <!--
 **raikanwalrai/raikanwalrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
